@@ -9,8 +9,8 @@ Plan:
 *I am starting from scratch since both my partners dropped the class so my outline is only a week and a half to complete this project*
 
 
-Week of April 1st to 6th: create repository, complete class design, start coding project; design stages, and work on a xml file reader.
+Week of April 1st to 6th: create repository, complete new class design, start coding project; design stages, and work on sector tree.
 
-Week of April 7th - 12th: Finish coding project, test and add final touches. 
+Week of April 7th - 12th: Upload code to repository, finish coding project, test and add final touches. 
 
 Cara Sweeney
