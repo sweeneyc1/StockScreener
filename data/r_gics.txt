@@ -1,0 +1,294 @@
+I|10|Energy|GSECTOR
+I|1010|Energy|GGROUP
+I|101010|Energy Equipment & Services|GIND
+I|10101010|Oil & Gas Drilling|GSUBIND
+I|10101020|Oil & Gas Equipment & Services|GSUBIND
+I|101020|Oil, Gas & Consumable Fuels|GIND
+I|10102010|Integrated Oil & Gas|GSUBIND
+I|10102020|Oil & Gas Exploration & Production|GSUBIND
+I|10102030|Oil & Gas Refining & Marketing|GSUBIND
+I|15|Materials|GSECTOR
+I|1510|Materials|GGROUP
+I|151010|Chemicals|GIND
+I|15101010|Commodity Chemicals|GSUBIND
+I|15101020|Diversified Chemicals|GSUBIND
+I|15101030|Fertilizers & Agricultural Chemicals|GSUBIND
+I|15101040|Industrial Gases|GSUBIND
+I|15101050|Specialty Chemicals|GSUBIND
+I|151020|Construction Materials|GIND
+I|15102010|Construction Materials|GSUBIND
+I|151030|Containers & Packaging|GIND
+I|15103010|Metal & Glass Containers|GSUBIND
+I|15103020|Paper Packaging|GSUBIND
+I|151040|Metals & Mining|GIND
+I|15104010|Aluminum|GSUBIND
+I|15104020|Diversified Metals & Mining|GSUBIND
+I|15104030|Gold|GSUBIND
+I|15104040|Precious Metals & Minerals|GSUBIND
+I|15104050|Steel|GSUBIND
+I|151050|Paper & Forest Products|GIND
+I|15105010|Forest Products|GSUBIND
+I|15105020|Paper Products|GSUBIND
+I|20|Industrials|GSECTOR
+I|2010|Capital Goods|GGROUP
+I|201010|Aerospace & Defense|GIND
+I|20101010|Aerospace & Defense|GSUBIND
+I|201020|Building Products|GIND
+I|20102010|Building Products|GSUBIND
+I|201030|Construction & Engineering|GIND
+I|20103010|Construction & Engineering|GSUBIND
+I|201040|Electrical Equipment|GIND
+I|20104010|Electrical Components & Equipment|GSUBIND
+I|20104020|Heavy Electrical Equipment|GSUBIND
+I|201050|Industrial Conglomerates|GIND
+I|20105010|Industrial Conglomerates|GSUBIND
+I|201060|Machinery|GIND
+I|20106010|Construction Machinery & Heavy Trucks|GSUBIND
+I|20106020|Industrial Machinery|GSUBIND
+I|201070|Trading Companies & Distributors|GIND
+I|20107010|Trading Companies & Distributors|GSUBIND
+I|2020|Commercial & Professional Services|GGROUP
+I|202010|Commercial Services & Supplies|GIND
+I|20201010|Commercial Printing|GSUBIND
+I|20201020|Data Processing Services|GSUBIND
+I|20201030|Diversified Commercial & Professional Services|GSUBIND
+I|20201040|Human Resource & Employment Services|GSUBIND
+I|20201050|Environmental & Facilities Services|GSUBIND
+I|20201060|Office Services & Supplies|GSUBIND
+I|2030|Transportation|GGROUP
+I|203010|Air Freight & Logistics|GIND
+I|20301010|Air Freight & Logistics|GSUBIND
+I|203020|Airlines|GIND
+I|20302010|Airlines|GSUBIND
+I|203030|Marine|GIND
+I|20303010|Marine|GSUBIND
+I|203040|Road & Rail|GIND
+I|20304010|Railroads|GSUBIND
+I|20304020|Trucking|GSUBIND
+I|203050|Transportation Infrastructure|GIND
+I|20305010|Airport Services|GSUBIND
+I|20305020|Highways & Railtracks|GSUBIND
+I|20305030|Marine Ports & Services|GSUBIND
+I|25|Consumer Discretionary|GSECTOR
+I|2510|Automobiles & Components|GGROUP
+I|251010|Auto Components|GIND
+I|25101010|Auto Parts & Equipment|GSUBIND
+I|25101020|Tires & Rubber|GSUBIND
+I|251020|Automobiles|GIND
+I|25102010|Automobile Manufacturers|GSUBIND
+I|25102020|Motorcycle Manufacturers|GSUBIND
+I|2520|Consumer Durables & Apparel|GGROUP
+I|252010|Household Durables|GIND
+I|25201010|Consumer Electronics|GSUBIND
+I|25201020|Home Furnishings|GSUBIND
+I|25201030|Homebuilding|GSUBIND
+I|25201040|Household Appliances|GSUBIND
+I|25201050|Housewares & Specialties|GSUBIND
+I|252020|Leisure Products|GIND
+I|25202010|Leisure Products|GSUBIND
+I|25202020|Photographic Products|GSUBIND
+I|252030|Textiles, Apparel & Luxury Goods|GIND
+I|25203010|Apparel, Accessories & Luxury Goods|GSUBIND
+I|25203020|Footwear|GSUBIND
+I|25203030|Textiles|GSUBIND
+I|2530|Consumer Services|GGROUP
+I|253010|Hotels, Restaurants & Leisure|GIND
+I|25301010|Casinos & Gaming|GSUBIND
+I|25301020|Hotels, Resorts & Cruise Lines|GSUBIND
+I|25301030|Leisure Facilities|GSUBIND
+I|25301040|Restaurants|GSUBIND
+I|2540|Media|GGROUP
+I|254010|Media|GIND
+I|25401010|Advertising|GSUBIND
+I|25401020|Broadcasting|GSUBIND
+I|25401030|Movies & Entertainment|GSUBIND
+I|25401040|Publishing|GSUBIND
+I|2550|Retailing|GGROUP
+I|255010|Distributors|GIND
+I|25501010|Distributors|GSUBIND
+I|255020|Internet & Direct Marketing Retail|GIND
+I|25502010|Catalog Retail|GSUBIND
+I|25502020|Internet & Direct Marketing Retail|GSUBIND
+I|255030|Multiline Retail|GIND
+I|25503010|Department Stores|GSUBIND
+I|25503020|General Merchandise Stores|GSUBIND
+I|255040|Specialty Retail|GIND
+I|25504010|Apparel Retail|GSUBIND
+I|25504020|Computer & Electronics Retail|GSUBIND
+I|25504030|Home Improvement Retail|GSUBIND
+I|25504040|Specialty Stores|GSUBIND
+I|30|Consumer Staples|GSECTOR
+I|3010|Food & Staples Retailing|GGROUP
+I|301010|Food & Staples Retailing|GIND
+I|30101010|Drug Retail|GSUBIND
+I|30101020|Food Distributors|GSUBIND
+I|30101030|Food Retail|GSUBIND
+I|3020|Food Beverage & Tobacco|GGROUP
+I|302010|Beverages|GIND
+I|30201010|Brewers|GSUBIND
+I|30201020|Distillers & Vintners|GSUBIND
+I|30201030|Soft Drinks|GSUBIND
+I|302020|Food Products|GIND
+I|30202010|Agricultural Products|GSUBIND
+I|30202020|Meat Poultry & Fish|GSUBIND
+I|30202030|Packaged Foods & Meats|GSUBIND
+I|302030|Tobacco|GIND
+I|30203010|Tobacco|GSUBIND
+I|3030|Household & Personal Products|GGROUP
+I|303010|Household Products|GIND
+I|30301010|Household Products|GSUBIND
+I|303020|Personal Products|GIND
+I|30302010|Personal Products|GSUBIND
+I|35|Health Care|GSECTOR
+I|3510|Health Care Equipment & Services|GGROUP
+I|351010|Health Care Equipment & Supplies|GIND
+I|35101010|Health Care Equipment|GSUBIND
+I|35101020|Health Care Supplies|GSUBIND
+I|351020|Health Care Providers & Services|GIND
+I|35102010|Health Care Distributors|GSUBIND
+I|35102020|Health Care Facilities|GSUBIND
+I|35102030|Managed Health Care|GSUBIND
+I|3520|Pharmaceuticals, Biotechnology & Life Sciences|GGROUP
+I|352010|Biotechnology|GIND
+I|35201010|Biotechnology|GSUBIND
+I|352020|Pharmaceuticals|GIND
+I|35202010|Pharmaceuticals|GSUBIND
+I|40|Financials|GSECTOR
+I|4010|Banks|GGROUP
+I|401010|Banks|GIND
+I|40101010|Diversified Banks|GSUBIND
+I|4020|Diversified Financials|GGROUP
+I|402010|Diversified Financial Services|GIND
+I|40201010|Consumer Finance|GSUBIND
+I|40201020|Other Diversified Financial Services|GSUBIND
+I|40201030|Multi-Sector Holdings|GSUBIND
+I|4030|Insurance|GGROUP
+I|403010|Insurance|GIND
+I|40301010|Insurance Brokers|GSUBIND
+I|40301020|Life & Health Insurance|GSUBIND
+I|40301030|Multi-line Insurance|GSUBIND
+I|40301040|Property & Casualty Insurance|GSUBIND
+I|40301050|Reinsurance|GSUBIND
+I|4040|Real Estate|GGROUP
+I|404010|Real Estate|GIND
+I|40401010|Real Estate Investment Trusts|GSUBIND
+I|40401020|Real Estate Management & Development|GSUBIND
+I|45|Information Technology|GSECTOR
+I|4510|Software & Services|GGROUP
+I|451010|Internet Software & Services|GIND
+I|45101010|Internet Software & Services|GSUBIND
+I|451020|IT Services|GIND
+I|45102010|IT Consulting & Other Services|GSUBIND
+I|451030|Software|GIND
+I|45103010|Application Software|GSUBIND
+I|45103020|Systems Software|GSUBIND
+I|4520|Technology Hardware & Equipment|GGROUP
+I|452010|Communications Equipment|GIND
+I|45201010|Networking Equipment|GSUBIND
+I|45201020|Communications Equipment|GSUBIND
+I|452020|Technology Hardware, Storage & Peripherals|GIND
+I|45202010|Computer Hardware|GSUBIND
+I|45202020|Computer Storage & Peripherals|GSUBIND
+I|452030|Electronic Equipment, Instruments & Components|GIND
+I|45203010|Electronic Equipment & Instruments|GSUBIND
+I|452040|Office Electronics|GIND
+I|45204010|Office Electronics|GSUBIND
+I|452050|Semiconductor Equipment & Products|GIND
+I|45205010|Semiconductor Equipment|GSUBIND
+I|45205020|Semiconductors|GSUBIND
+I|50|Telecommunication Services|GSECTOR
+I|5010|Telecommunication Services|GGROUP
+I|501010|Diversified Telecommunication Services|GIND
+I|50101010|Alternative Carriers|GSUBIND
+I|50101020|Integrated Telecommunication Services|GSUBIND
+I|501020|Wireless Telecommunication Services|GIND
+I|50102010|Wireless Telecommunication Services|GSUBIND
+I|55|Utilities|GSECTOR
+I|5510|Utilities|GGROUP
+I|551010|Electric Utilities|GIND
+I|55101010|Electric Utilities|GSUBIND
+I|551020|Gas Utilities|GIND
+I|55102010|Gas Utilities|GSUBIND
+I|551030|Multi-Utilities|GIND
+I|55103010|Multi-Utilities|GSUBIND
+I|551040|Water Utilities|GIND
+I|55104010|Water Utilities|GSUBIND
+I|30101040|Hypermarkets & Super Centers|GSUBIND
+I|35102015|Health Care Services|GSUBIND
+I|40101015|Regional Banks|GSUBIND
+I|401020|Thrifts & Mortgage Finance|GIND
+I|40102010|Thrifts & Mortgage Finance|GSUBIND
+I|40201040|Specialized Finance|GSUBIND
+I|402020|Consumer Finance|GIND
+I|40202010|Consumer Finance|GSUBIND
+I|402030|Capital Markets|GIND
+I|40203010|Asset Management & Custody Banks|GSUBIND
+I|40203020|Investment Banking & Brokerage|GSUBIND
+I|40203030|Diversified Capital Markets|GSUBIND
+I|45102020|Data Processing & Outsourced Services|GSUBIND
+I|45103030|Home Entertainment Software|GSUBIND
+I|45203020|Electronic Manufacturing Services|GSUBIND
+I|45203030|Technology Distributors|GSUBIND
+I|4530|Semiconductors & Semiconductor Equipment|GGROUP
+I|453010|Semiconductors & Semiconductor Equipment|GIND
+I|45301010|Semiconductor Equipment|GSUBIND
+I|45301020|Semiconductors|GSUBIND
+I|10102040|Oil & Gas Storage & Transportation|GSUBIND
+I|10102050|Coal & Consumable Fuels|GSUBIND
+I|253020|Diversified Consumer Services|GIND
+I|25302010|Education Services|GSUBIND
+I|25302020|Specialized Consumer Services|GSUBIND
+I|25504050|Automotive Retail|GSUBIND
+I|25504060|Homefurnishing Retail|GSUBIND
+I|551050|Independent Power and Renewable Electricity Producers|GIND
+I|55105010|Independent Power Producers & Energy Traders|GSUBIND
+I|351030|Health Care Technology|GIND
+I|35103010|Health Care Technology|GSUBIND
+I|352030|Life Sciences Tools & Services|GIND
+I|35203010|Life Sciences Tools & Services|GSUBIND
+I|404020|Real Estate Investment Trusts (REITs)|GIND
+I|40402010|Diversified REITs|GSUBIND
+I|40402020|Industrial REITs|GSUBIND
+I|40402030|Mortgage REITs|GSUBIND
+I|40402040|Office REITs|GSUBIND
+I|40402050|Residential REITs|GSUBIND
+I|40402060|Retail REITs|GSUBIND
+I|40402070|Specialized REITs|GSUBIND
+I|404030|Real Estate Management & Development|GIND
+I|40403010|Diversified Real Estate Activities|GSUBIND
+I|202020|Professional Services|GIND
+I|20202010|Human Resource & Employment Services|GSUBIND
+I|20202020|Research & Consulting Services|GSUBIND
+I|20201070|Diversified Support Services|GSUBIND
+I|20201080|Security & Alarm Services|GSUBIND
+I|25401025|Cable & Satellite|GSUBIND
+I|40403020|Real Estate Operating Companies|GSUBIND
+I|40403030|Real Estate Development|GSUBIND
+I|40403040|Real Estate Services|GSUBIND
+I|45203015|Electronic Components|GSUBIND
+I|20106015|Agricultural & Farm Machinery|GSUBIND
+I|40402045|Health Care REITs|GSUBIND
+I|45202030|Technology Hardware, Storage & Peripherals|GSUBIND
+I|55105020|Renewable Electricity|GSUBIND
+I|15104045|Silver|GSUBIND
+I|40402035|Hotel & Resort REITs|GSUBIND
+I|402040|Mortgage Real Estate Investment Trusts (REITs)|GIND
+I|40203040|Financial Exchanges & Data|GSUBIND
+I|40204010|Mortgage REITs|GSUBIND
+I|60|Real Estate|GSECTOR
+I|6010|Real Estate|GGROUP
+I|601010|Equity Real Estate Investment Trusts (REITs) |GIND
+I|601020|Real Estate Management & Development|GIND
+I|60101010|Diversified REITs|GSUBIND
+I|60101020|Industrial REITs|GSUBIND
+I|60101030|Hotel & Resort REITs|GSUBIND
+I|60101040|Office REITs|GSUBIND
+I|60101050|Health Care REITs|GSUBIND
+I|60101060|Residential REITs|GSUBIND
+I|60101070|Retail REITs|GSUBIND
+I|60101080|Specialized REITs|GSUBIND
+I|60102010|Diversified Real Estate Activities|GSUBIND
+I|60102020|Real Estate Operating Companies|GSUBIND
+I|60102030|Real Estate Development|GSUBIND
+I|60102040|Real Estate Services|GSUBIND
+I|15104025|Copper|GSUBIND
