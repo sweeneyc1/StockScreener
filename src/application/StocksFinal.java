@@ -233,9 +233,12 @@ public class StocksFinal extends Application {
 		button3.setOnAction(e -> primaryStage.setScene(scene2));
 		
 // OLD CODE STARTED HERE
-		String gicsFile = "C:\\Users\\sweeneyc1\\Desktop\\r_gics.txt";
-		String companyFile = "C:\\Users\\sweeneyc1\\Desktop\\f_gic_comp.txt";
-		String stockFile = "C:\\Users\\sweeneyc1\\Desktop\\f_gic_secur1.txt";
+//		String gicsFile = "C:\\Users\\sweeneyc1\\Desktop\\r_gics.txt";
+//		String companyFile = "C:\\Users\\sweeneyc1\\Desktop\\f_gic_comp.txt";
+//		String stockFile = "C:\\Users\\sweeneyc1\\Desktop\\f_gic_secur1.txt";
+		String gicsFile = "C:\\temp\\r_gics.txt";
+		String companyFile = "C:\\temp\\f_gic_comp.txt";
+		String stockFile = "C:\\temp\\f_gic_secur1.txt";
 		String line = "";
 		String cvsSplitBy = "\\|";
 		List<GicNode> gicslist = new ArrayList<GicNode>();
