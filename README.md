@@ -55,7 +55,7 @@ Features:
   4. Embedded web browser
 
 Demo Video:
-
+https://youtu.be/aKzRySnGJaI
 
 
 Team Members:
