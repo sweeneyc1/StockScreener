@@ -527,7 +527,8 @@ public class StocksFinal extends Application {
 	    
 	    private void readCSV() {
 	    	 
-	        String CsvFile = "C:\\Users\\sweeneyc1\\Desktop\\holdings.csv";
+//	        String CsvFile = "C:\\Users\\sweeneyc1\\Desktop\\holdings.csv";
+	    	String CsvFile = "C:\\temp\\holdings.csv";
 	        String FieldDelimiter = ",";
 	 
 	        BufferedReader br;
