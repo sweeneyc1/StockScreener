@@ -12,6 +12,14 @@ How?
   This program has a login, which at the moment doesn't check that the username or password exist, the login page takes you to the holdings page which is takes in a csv file from Excel and displays that on the screen. From this page, you can look at the stock information and either enter the name of the stock in the textfield below which will take you to the final page that contains an embedded web browser where you can invest, or you can continue to the next page. The third page contains an S&P 500 GICS Sector tree which takes in data from an XML file. You can expand the tree to see different sector groups, industries, sub industries, and finally companies to invest in. Then you click on a company to select it and press the continue button. This takes you to the fourth screen with the embedded web broswer, which automatically connects you to a fundementals page for the stock you selected so you can invest. This page contains information about the day's earnings for that specific stock, a graph of earnings over the past serveral months, news and reports about the company, and finally a chart comparing that company to other companies in that industry so you can compare that company to it's competitors. 
   
 
+Deliverables:
+1. StocksFinal.java - code for the project
+2. GicNode.java - class for sector tree
+3. r_gics.txt - data for the sector tree
+4. f_gic_comp.txt - data for the sector tree
+5. f_gic_secur1.txt - data for the sector tree
+6. holdings.csv - data from Excel for the holdings page
+
 Plan:
 
 *I am starting from scratch since both my partners dropped the class so my outline is only a week and a half to complete this project, you can see the other repository for "TeachingFashion" to see the other 2 progress reports for that project*
