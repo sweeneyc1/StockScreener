@@ -17,7 +17,7 @@ How?
 Deliverables:
 The deliverable was a working stock screener written over Standard and Poor (S&P) 500 Global Industry Standard Classification data feed. 
 
-1. Frotend - javaFX GUI
+1. Frontend - javaFX GUI
 2. Backend - r_gics.txt, f_gic_comp.txt, f_gic_secur1.txt, were all data files that were read in for the S&P 500 GICS Sector Tree. The holdings.csv is an Excel csv file that is read in for the holdings page
 3. Documentation - "Final Project Proposal", "Final Project Class Design". 
 
