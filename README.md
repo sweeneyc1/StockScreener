@@ -1,6 +1,8 @@
 # StockScreener
 Stock Screener Application
 
+Description: 
+
 
 What?
   This application allows an investor to research stocks in specific sectors of the stock market and quickly link to a stock fundamental website for potential investment. 
@@ -13,12 +15,12 @@ How?
   
 
 Deliverables:
-1. StocksFinal.java - code for the project
-2. GicNode.java - class for sector tree
-3. r_gics.txt - data for the sector tree
-4. f_gic_comp.txt - data for the sector tree
-5. f_gic_secur1.txt - data for the sector tree
-6. holdings.csv - data from Excel for the holdings page
+The deliverable was a working stock screener written over Standard and Poor (S&P) 500 Global Industry Standard Classification data feed. 
+
+1. Frotend - javaFX GUI
+2. Backend - r_gics.txt, f_gic_comp.txt, f_gic_secur1.txt, were all data files that were read in for the S&P 500 GICS Sector Tree. The holdings.csv is an Excel csv file that is read in for the holdings page
+3. Documentation - "Final Project Proposal Ideas", "Final Project Class Design". 
+
 
 Plan:
 
@@ -39,7 +41,8 @@ Week of April 7th - 12th:
 Getting Started:
 
 Install:
-  To install you need to download the xml files and the csv files from the data file in GIT to C:\\temp\\filename ("C:\\temp\\holdings.csv", "C:\\temp\\r_gics.txt", "C:\\temp\\f_gic_comp.txt", "C:\\temp\\f_gic_secur1.txt"). Then you can download the src code and run it from Eclipse. 
+  1. Download the xml files and the csv file from the data file in GIT to C:\\temp\\filename ("C:\\temp\\holdings.csv", "C:\\temp\\r_gics.txt", "C:\\temp\\f_gic_comp.txt", "C:\\temp\\f_gic_secur1.txt"). 
+  2. Download the src code and run it from Eclipse. 
   
 Run:
   1. Follow instructions to install program
