@@ -15,11 +15,11 @@ How?
   
 
 Deliverables:
-The deliverable was a working stock screener written over Standard and Poor (S&P) 500 Global Industry Standard Classification data feed. 
 
 1. Frontend - javaFX GUI
 2. Backend - r_gics.txt, f_gic_comp.txt, f_gic_secur1.txt, were all data files that were read in for the S&P 500 GICS Sector Tree. The holdings.csv is an Excel csv file that is read in for the holdings page
-3. Documentation - "Final Project Proposal", "Final Project Class Design". 
+3. Documentation - a working stock screener application written over the Standard and Poor (S&P) 500 Global Industry Standard Classification data feed. 
+
 
 
 Plan:
@@ -42,16 +42,17 @@ Getting Started:
 
 Install:
   1. Download the xml files and the csv file from the data file in GIT to C:\\temp\\filename ("C:\\temp\\holdings.csv", "C:\\temp\\r_gics.txt", "C:\\temp\\f_gic_comp.txt", "C:\\temp\\f_gic_secur1.txt"). 
-  2. Download the src code and run it from Eclipse. 
+  2. Download the src code in Eclipse. 
   
 Run:
   1. Follow instructions to install program
-  2. Run the program in Eclipse
+  2. Connect to the internet
+  3. Run the program in Eclipse by pressing the run program button.
   
 Features:
-  1. Login
-  2. Excel holdings page
-  3. S&P 500 GICS Sector Tree
+  1. Login page
+  2. Excel spreadsheet for holdings page
+  3. S&P 500 GICS Sector Tree that takes data from an xml file
   4. Embedded web browser
 
 Demo Video:
