@@ -11,14 +11,14 @@ Why?
   The purpose of this application is to ease the navigation of stock market sectors. 
   
 How?
-  This program has a login, which at the moment doesn't check that the username or password exist, the login page takes you to the holdings page which is takes in a csv file from Excel and displays that on the screen. From this page, you can look at the stock information and either enter the name of the stock in the textfield below which will take you to the final page that contains an embedded web browser where you can invest, or you can continue to the next page. The third page contains an S&P 500 GICS Sector tree which takes in data from an XML file. You can expand the tree to see different sector groups, industries, sub industries, and finally companies to invest in. Then you click on a company to select it and press the continue button. This takes you to the fourth screen with the embedded web broswer, which automatically connects you to a fundementals page for the stock you selected so you can invest. This page contains information about the day's earnings for that specific stock, a graph of earnings over the past serveral months, news and reports about the company, and finally a chart comparing that company to other companies in that industry so you can compare that company to it's competitors. 
+  This program has a login, which at the moment doesn't check that the username or password exist, the login page takes you to the holdings page which takes in a csv file from Excel and displays that on the screen. From this page, you can look at the stock information and either enter the name of the stock in the textfield below which will take you to the final page that contains an embedded web browser where you can invest, or you can continue to the next page. The third page contains an S&P 500 GICS Sector tree which takes in data from an XML file. You can expand the tree to see different sector groups, industries, sub industries, and finally companies to invest in. Then you click on a company to select it and press the continue button. This takes you to the fourth screen with the embedded web broswer, which automatically connects you to a fundementals page for the stock you selected so you can invest. This page contains information about the day's earnings for that specific stock, a graph of earnings over the past serveral months, news and reports about the company, and finally a chart comparing that company to other companies in that industry so you can compare that company to it's competitors. 
   
 
 Deliverables:
 
 1. Frontend - javaFX GUI
-2. Backend - r_gics.txt, f_gic_comp.txt, f_gic_secur1.txt, were all data files that were read in for the S&P 500 GICS Sector Tree. The holdings.csv is an Excel csv file that is read in for the holdings page
-3. Documentation - a working stock screener application written over the Standard and Poor (S&P) 500 Global Industry Standard Classification data feed. 
+2. Backend - r_gics.txt, f_gic_comp.txt, f_gic_secur1.txt, were all data files that were read in for the S&P 500 GICS Sector Tree. The holdings.csv is an Excel csv file that is read in for the holdings page. Also Stock.final and GicNode.java files in Eclipse. 
+3. Documentation - Weekly Progress Reports, Class Design, Project proposal, and a working stock screener application written over the Standard and Poor (S&P) 500 Global Industry Standard Classification data feed. 
 
 
 
